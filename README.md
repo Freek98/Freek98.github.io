@@ -1,3 +1,5 @@
+I (Freek) have copied the template from academic pages and made very little changes. Therefore, many artifacts of unused code are still in this project. 
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
