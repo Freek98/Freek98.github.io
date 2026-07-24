@@ -6,5 +6,5 @@ permalink: /publication/FoundationsSSD
 venue: 'postproceedings TYPES 2024'
 ---
 
-Together with Felix Cherubini, Thierry Coquand and Hugo Moeneclaey, I worked on a system called "Synthetic Stone Duality". We presented this work at TYPES 2024, and published our first article on it [here](https://doi.org/10.4230/LIPIcs.TYPES.2024.3).
+Together with [Felix Cherubini](https://felix-cherubini.de/), [Thierry Coquand](https://www.cse.chalmers.se/~coquand/) and [Hugo Moeneclaey](https://www.hugomoeneclaey.com/), I worked on a system called "Synthetic Stone Duality". We presented this work at TYPES 2024, and published our first article on it [here](https://doi.org/10.4230/LIPIcs.TYPES.2024.3).
 
